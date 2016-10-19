@@ -10,7 +10,7 @@ Your hello-world repository can be a place where you store ideas, resources, or 
 
 
 
-Step 2. Create a Branch
+##Step 2. Create a Branch
 Branching is the way to work on different versions of a repository at one time.
 
 By default your repository has one branch named master which is considered to be the definitive branch. We use branches to experiment and make edits before committing them to master.
@@ -27,7 +27,7 @@ The journey that feature takes before it’s merged into master
 
 
 
-Step 3. Make and commit changes
+##Step 3. Make and commit changes
 Bravo! Now, you’re on the code view for your readme-edits branch, which is a copy of master. Let’s make some edits.
 
 On GitHub, saved changes are called commits. Each commit has an associated commit message, which is a description explaining why a particular change was made. Commit messages capture the history of your changes, so other contributors can understand what you’ve done and why.
@@ -42,7 +42,7 @@ Click Commit changes button.
 
 
 
-Step 4. Open a Pull Request
+##Step 4. Open a Pull Request
 Nice edits! Now that you have changes in a branch off of master, you can open a pull request.
 
 Pull Requests are the heart of collaboration on GitHub. When you open a pull request, you’re proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch. Pull requests show diffs, or differences, of the content from both branches. The changes, additions, and subtractions are shown in green and red.
@@ -55,7 +55,7 @@ You can even open pull requests in your own repository and merge them yourself. 
 
 
 
-Step 5. Merge your Pull Request
+##Step 5. Merge your Pull Request
 In this final step, it’s time to bring your changes together – merging your readme-edits branch into the master branch.
 
 Click the green Merge pull request button to merge the changes into master.
