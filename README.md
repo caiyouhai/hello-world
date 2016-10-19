@@ -2,7 +2,7 @@
 just test repository
 
 
-Step 1. Create a Repository
+##Step 1. Create a Repository
 A repository is usually used to organize a single project. Repositories can contain folders and files, images, videos, spreadsheets, and data sets – anything your project needs. We recommend including a README, or a file with information about your project. GitHub makes it easy to add one at the same time you create your new repository. It also offers other common options such as a license file.
 
 Your hello-world repository can be a place where you store ideas, resources, or even share and discuss things with others.
@@ -39,3 +39,25 @@ Click the  pencil icon in the upper right corner of the file view to edit.
 In the editor, write a bit about yourself.
 Write a commit message that describes your changes.
 Click Commit changes button.
+
+
+
+Step 4. Open a Pull Request
+Nice edits! Now that you have changes in a branch off of master, you can open a pull request.
+
+Pull Requests are the heart of collaboration on GitHub. When you open a pull request, you’re proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch. Pull requests show diffs, or differences, of the content from both branches. The changes, additions, and subtractions are shown in green and red.
+
+As soon as you make a commit, you can open a pull request and start a discussion, even before the code is finished.
+
+By using GitHub’s @mention system in your pull request message, you can ask for feedback from specific people or teams, whether they’re down the hall or 10 time zones away.
+
+You can even open pull requests in your own repository and merge them yourself. It’s a great way to learn the GitHub Flow before working on larger projects.
+
+
+
+Step 5. Merge your Pull Request
+In this final step, it’s time to bring your changes together – merging your readme-edits branch into the master branch.
+
+Click the green Merge pull request button to merge the changes into master.
+Click Confirm merge.
+Go ahead and delete the branch, since its changes have been incorporated, with the Delete branch button in the purple box.
